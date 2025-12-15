@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200">
+	<defs>
+		<image  width="700" height="200" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArwAAADIAQMAAAAwWKD+AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAFhJREFUeJztzDENAAAMA6DVv+mp6NEEBJAriVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWb8QPkwEAyXwWoZ4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #151515 } 
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+	<path id="DOWNLOAD JAR" class="s0" aria-label="DOWNLOAD JAR"  d="m71.1 122v-43.4h34.7v8.7h-26v26h26v8.7zm34.7-8.7v-26h8.7v26zm24-26v-8.7h26v8.7zm-8.7 26v-26h8.7v26zm34.7 0v-26h8.7v26zm-26 8.7v-8.7h26v8.7zm40.3 0v-43.4h8.7v26h8.7v8.7h-8.7v8.7zm34.7-17.4v-26h8.7v43.4h-8.7v-8.7h-8.6v-8.7zm-17.4 0v-8.6h8.7v8.6zm32.6 17.4v-43.4h8.7v8.7h8.7v8.7h-8.7v26zm34.7-17.4v-26h8.7v43.4h-8.7v-8.7h-8.7v-8.7zm-17.3 0v-8.6h8.7v8.6zm31.6 17.4v-43.4h8.7v34.7h34.7v8.7zm58.7-34.7v-8.7h26v8.7zm-8.7 26v-26h8.7v26zm34.7 0v-26h8.7v26zm-26 8.7v-8.7h26v8.7zm50-34.7v-8.7h26.1v8.7zm-8.7 34.7v-34.7h8.7v17.3h26v-17.3h8.7v34.7h-8.7v-8.7h-26v8.7zm49 0v-43.4h34.7v8.7h-26.1v26h26.1v8.7zm34.7-8.7v-26h8.7v26zm40.9-26v-8.7h34.8v34.7h-8.7v-26zm0 34.7v-8.7h-8.7v-8.7h8.7v8.7h26v8.7zm50-34.7v-8.7h26.1v8.7zm-8.7 34.7v-34.7h8.7v17.3h26v-17.3h8.7v34.7h-8.7v-8.7h-26v8.7zm49 0v-43.4h34.7v8.7h-26.1v8.7h26.1v8.6h-26.1v17.4zm34.8-26v-8.7h8.6v8.7zm0 26v-17.4h8.7v17.4z"/>
+</svg>
